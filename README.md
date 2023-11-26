@@ -109,7 +109,7 @@ void PrintArray(string[] array)
 
 Результат вывода в терминал:
 
-> ![image answer in terminal](Выполненое задание.png)
+> ![Terminal](Выполненое задание.png)
 
 5. Скриншот коммитов для подтверждения:
 
